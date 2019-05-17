@@ -1,2 +1,2 @@
-# TurkishKit-UIImageView
-TurkishKit UIImageView yazısı için örnek kodlat
+# TurkishKit UIImageView
+TurkishKit UIImageView yazısı için örnek kodlar
